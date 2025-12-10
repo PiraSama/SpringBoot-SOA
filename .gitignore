@@ -1,0 +1,32 @@
+# Java & Maven
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# H2 database files
+*.db
+
+# others
+*.keystore
+.env
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Node
+node_modules/
